@@ -25,16 +25,4 @@ To begin with the MSICS HTML Template, clone the repository and explore the code
 git clone https://github.com/Soriful-Chalehin/MSICS-Template.git
 ```
 
-### Live Demo
-Check out the live demo of the MSICS HTML Template here.
 
-### Contact the Developer
-For any questions, suggestions, or to connect, reach out to Soriful Chalehin:
-
-<ul>
-    <li><a href='https://facebook.com/Chalehin'> Follow me on Faceobook.</li>
-    <li><a href='https://soriful-chalehin.github.io'> Website.</li>
-    <li><a href='mailto:developersoriful@gmail.com'> E-mail </li>
-</ul>
-License
-This MSICS HTML Template is licensed under the MIT License.
