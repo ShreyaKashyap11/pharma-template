@@ -1,4 +1,4 @@
-# MSICS HTML Template
+# pharma Template
 
 Welcome to the MSICS HTML Template, a creation by Soriful Chalehin. This template offers a responsive and visually appealing design suitable for various web development projects. Explore the live demo [here](https://soriful-chalehin.github.io/MSICS-Template).
 
